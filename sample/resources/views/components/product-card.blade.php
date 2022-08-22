@@ -1,5 +1,5 @@
 
-@props(['products'])
+
 
 @foreach ($products as $products)
 

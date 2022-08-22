@@ -13,6 +13,9 @@
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     
+<x-button class="m-4"><a href="/dashboard">Back</a></x-button>
+
+
     <section class="px-6 py-8 ">
         <main class="mx-auto max-w-4xl mt-10 bg-blue-100 border border-blue-300 p-6 rounded-xl">
             <h1 class="text-center font-bold text-xl mb-10 text-blue-600">Edit {{$products->name}} Product!</h1>

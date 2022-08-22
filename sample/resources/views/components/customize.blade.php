@@ -1,5 +1,8 @@
 
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+<x-button class="m-4"><a href="/dashboard">Back</a></x-button>
+
 <section class="px-6 py-8 max-w-4xl mx-auto  mt-10 ">
 <table class="min-w-full divide-y divide-gray-200">
     
